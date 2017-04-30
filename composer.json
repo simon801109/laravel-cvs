@@ -1,0 +1,15 @@
+{
+    "name": "wangyucheng/laravel-cvs",
+    "authors": [
+        {
+            "name": "SimonWang",
+            "email": "a257140042@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Simon801109\\Cvs\\": "src/"
+        }
+    }
+}
